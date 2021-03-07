@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://miguelweckx.synology.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I'm a fellow physics student passionate about tech.
+## I'm a fellow physicist passionate about tech.
 
 - 🔭 I just launched my obsidian note database to the public, not all my notes but a lot of good content right there: [MrWeckx's Brain][obsidianpub]!
 - 🌱 I love learning new things and exploring new technologies
