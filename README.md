@@ -1,6 +1,6 @@
 ### Hello there! I'm Miguel G Sánchez Weckx - aka [MrWeckx](www.mrweckx.com) 👋
 
-[![Website](https://i.pinimg.com/originals/d8/10/55/d81055d32cf810a6d527b5eb9ae20f08.png)](https://www.mrweckx.com)
+[![Website]](https://www.mrweckx.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a fellow physicist passionate about tech.
